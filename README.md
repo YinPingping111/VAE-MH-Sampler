@@ -1,0 +1,1 @@
+A new algorithm, named the VAE-MH sampler , leverages the Variational Autoencoder (VAE) to enhance the efficiency of the Metropolis-Hastings (MH) algorithm when sampling from multi-modal distributions. 
